@@ -14,7 +14,7 @@ const steps=[
 ['03','Uchoqdan foydalaning','Hisobingizga kiring va suhbatlaringizni davom ettiring.']
 ]
 const menu=ref(false)
-const DOWNLOAD='https://github.com/javaoff364-cloud/Uchoq/releases/download/v0.1.0/app.apk'
+const DOWNLOAD='https://github.com/javaoff364-cloud/Uchoq/releases/latest/download/app.apk'
 </script>
 <template>
 <main class="page">
